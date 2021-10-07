@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.exe
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.deps.json
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.runtimeconfig.json
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.dll
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\ref\DeligateApp.dll
+C:\Users\User\source\repos\DeligateApp\bin\Debug\net5.0\DeligateApp.pdb
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.AssemblyInfo.cs
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.dll
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\ref\DeligateApp.dll
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.pdb
+C:\Users\User\source\repos\DeligateApp\obj\Debug\net5.0\DeligateApp.genruntimeconfig.cache
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.exe
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.deps.json
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.runtimeconfig.json
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.runtimeconfig.dev.json
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.dll
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\ref\DeligateApp.dll
+D:\alif C#\21th Lesson\DeligateApp\bin\Debug\net5.0\DeligateApp.pdb
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.csproj.AssemblyReference.cache
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.AssemblyInfoInputs.cache
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.AssemblyInfo.cs
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.csproj.CoreCompileInputs.cache
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.dll
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\ref\DeligateApp.dll
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.pdb
+D:\alif C#\21th Lesson\DeligateApp\obj\Debug\net5.0\DeligateApp.genruntimeconfig.cache
